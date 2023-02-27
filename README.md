@@ -11,6 +11,10 @@
   </div>
 </div>
 
+## You can access it remotely in the following link:
+
+https://react-lorem-chi.vercel.app/
+
 # EN
 
 This is my first contact with react js, in this project I learned a lot of concepts about this incredible technology, and started my journey in this incredible universe of possibilities.
