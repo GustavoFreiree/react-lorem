@@ -1,4 +1,17 @@
-# React lorem - EN
+# React lorem
+
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 30px;">
+  <div style="text-align: center; margin-right: 50px;">
+    <p style="font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</p>
+    <img src="./desktop.png" alt="Captura de tela do projeto em execução" width="600">
+  </div>
+  <div style="text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 10px;">📱 Mobile</p>
+    <img src="./mobile.png" alt="Captura de tela do projeto em execução" width="200">
+  </div>
+</div>
+
+# EN
 
 This is my first contact with react js, in this project I learned a lot of concepts about this incredible technology, and started my journey in this incredible universe of possibilities.
 
@@ -31,7 +44,7 @@ This is my first contact with react js, in this project I learned a lot of conce
 
 > -    <b>Open the localhost on your browser and enjoy 😎</b>
 
-# React lorem - Pt-br
+# Pt-br
 
 Este é o meu primeiro contato com react js, neste projeto pude aprender muitos conceitos sobre essa incrível tecnologia, e iniciar minha jornada nesse incrível universo de possibilidades.
 
